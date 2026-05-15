@@ -1,16 +1,45 @@
-## Hi there 👋
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=600&color=F87C0E&center=true&vCenter=true&width=560&lines=Press+a+hotkey.;Speak.;Paste+anywhere.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+Hello!+Hola!+%E4%BD%A0%E5%A5%BD!+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7!" alt="typing animation"/>
+</h3>
 
-<!--
-**vlr-code/vlr-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+       _._     _,-'""`-._
+      (,-.`._,'(       |\`-/|     ~  "press your hotkey, meow at me,
+          `-.-' \ )-`( , o o)         I'll type it for you in 99 langs"
+                `-    \`_`"'-
+```
 
-Here are some ideas to get you started:
+**Indie macOS developer** · building [**Dictly**](https://github.com/vlr-code/dictly) — Whisper-powered push-to-talk dictation. On-device. Free. MIT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vlr-code&color=F87C0E&style=for-the-badge&label=Profile+views" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/vlr-code?style=for-the-badge&color=F87C0E&label=Followers" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/vlr-code/dictly?style=for-the-badge&color=F87C0E&label=Dictly+stars" alt="stars"/>
+</p>
+
+---
+
+#### What I work in
+
+[![My Skills](https://skillicons.dev/icons?i=swift,xcode,git,bash,py,vim&theme=dark)](https://skillicons.dev)
+
+---
+
+#### Currently shipping
+
+🎙️ **[Dictly](https://github.com/vlr-code/dictly)** — hold a key, speak, paste. Whisper runs entirely on-device via CoreML / Neural Engine. 99 languages. Lives in your menu bar. Works in Notion, Slack-web, VS Code, anywhere else `⌘V` lands.
+
+```
+recording  ●●●●●  ▁▃▅▇▆▄▂▁▃▆▇▄▂▁▂▅▇▆▃▁▂▄▆▇▆▅▃▁▁▂▄▇▆▄▂▁▂▄▆▇▆▅▃▁
+transcribe ··················· Whisper · base · local
+inserted   → Notion / TextEdit / wherever your cursor is
+```
+
+---
+
+#### Reach me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlr_code)
+[![Try Dictly](https://img.shields.io/badge/Try_Dictly-181717?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vlr-code/dictly/releases/latest)
+
+<sub>built with ☕ and a hotkey · `⌥Space → "написал этот README голосом"`</sub>
