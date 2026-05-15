@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=F87C0E&center=true&vCenter=true&width=720&lines=Hello!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%C2%A1Hola!;Bonjour!;%E4%BD%A0%E5%A5%BD!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=F87C0E&center=true&vCenter=true&width=420&lines=Hello!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%C2%A1Hola!;Bonjour!;%E4%BD%A0%E5%A5%BD!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!" alt="typing animation"/>
 </h3>
 
 <p align="left">
