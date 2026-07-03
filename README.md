@@ -16,6 +16,23 @@
 
 ---
 
+#### PayneSDD — a spec-driven protocol for AI agents
+
+*AI coding you don't re-read: the plan is agreed before code, "done" is machine-verified, and an independent skeptic tries to break every result.*
+
+<p align="center">
+  <a href="https://github.com/vlr-code/PayneSDD">
+    <img src="assets/payne-demo.svg" alt="PayneSDD demo: tier named, contract, consent STOP, machine gate goes red, cause fixed, gate green, verdict PASS" width="680"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vlr-code/PayneSDD"><img src="https://img.shields.io/badge/Try_PayneSDD-F87C0E?style=for-the-badge&logo=github&logoColor=white" alt="Try PayneSDD"/></a>
+  <a href="https://github.com/vlr-code/PayneSDD"><img src="https://img.shields.io/github/stars/vlr-code/PayneSDD?style=for-the-badge&color=F87C0E&label=PayneSDD+stars" alt="PayneSDD stars"/></a>
+</p>
+
+---
+
 #### Reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlr_code)
