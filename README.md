@@ -10,9 +10,9 @@
 
 ---
 
-#### PayneSDD — a spec-driven protocol for AI agents
+#### PayneSDD
 
-*AI coding you don't re-read: the plan is agreed before code, "done" is machine-verified, and an independent skeptic tries to break every result.*
+*An easy-going custom SDD protocol for agentic coding — the paperwork is the agent's problem, not yours.*
 
 <p align="center">
   <a href="https://github.com/vlr-code/PayneSDD">
