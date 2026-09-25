@@ -10,14 +10,35 @@
 
 ---
 
-#### PayneSDD
+### Dictly
 
-*An easy-going custom SDD protocol for agentic coding — the paperwork is the agent's problem, not yours.*
+<p align="center">
+  <a href="https://github.com/vlr-code/dictly">
+    <img src="assets/dictly.jpg" alt="Dictly — press a hotkey, speak, paste anywhere" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Press a hotkey. Speak. Paste anywhere.</i><br/>
+  <b>Free&nbsp;· Apple&nbsp;Silicon&nbsp;only&nbsp;· macOS&nbsp;15+&nbsp;· 99&nbsp;languages&nbsp;· 100%&nbsp;on-device</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vlr-code/dictly/releases/latest"><img src="https://img.shields.io/badge/Download_Dictly-F87C0E?style=for-the-badge&logo=apple&logoColor=white" alt="Download Dictly"/></a>
+</p>
+
+---
+
+### PayneSDD
 
 <p align="center">
   <a href="https://github.com/vlr-code/PayneSDD">
-    <img src="assets/payne-demo.svg" alt="PayneSDD demo: tier named, contract, consent STOP, machine gate goes red, cause fixed, gate green, verdict PASS" width="680"/>
+    <img src="assets/paynesdd-cycle.png" alt="PayneSDD — the cycle, Steps 0–6" width="100%"/>
   </a>
+</p>
+
+<p align="center">
+  <i>An easy-going custom SDD protocol for agentic coding — the paperwork is the agent's problem, not yours.</i>
 </p>
 
 <p align="center">
@@ -29,4 +50,5 @@
 #### Reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlr_code)
-[![Try Dictly](https://img.shields.io/badge/Try_Dictly-181717?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vlr-code/dictly/releases/latest)
+[![Try Dictly](https://img.shields.io/badge/Try_Dictly-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vlr-code/dictly/releases/latest)
+[![Try PayneSDD](https://img.shields.io/badge/Try_PayneSDD-F87C0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlr-code/PayneSDD)
