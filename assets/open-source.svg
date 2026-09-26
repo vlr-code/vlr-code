@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 190" width="600" height="190" role="img" aria-label="My open source: ls ~/open-source lists dictly/ and paynesdd/">
+<title>My open source</title>
+<style>@keyframes c0{0%{opacity:0}6.000%{opacity:1}96.000%{opacity:0}}.c0{animation:c0 10.0s step-end infinite}@keyframes c1{0%{opacity:0}6.900%{opacity:1}96.000%{opacity:0}}.c1{animation:c1 10.0s step-end infinite}@keyframes c3{0%{opacity:0}8.700%{opacity:1}96.000%{opacity:0}}.c3{animation:c3 10.0s step-end infinite}@keyframes c4{0%{opacity:0}9.600%{opacity:1}96.000%{opacity:0}}.c4{animation:c4 10.0s step-end infinite}@keyframes c5{0%{opacity:0}10.500%{opacity:1}96.000%{opacity:0}}.c5{animation:c5 10.0s step-end infinite}@keyframes c6{0%{opacity:0}11.400%{opacity:1}96.000%{opacity:0}}.c6{animation:c6 10.0s step-end infinite}@keyframes c7{0%{opacity:0}12.300%{opacity:1}96.000%{opacity:0}}.c7{animation:c7 10.0s step-end infinite}@keyframes c8{0%{opacity:0}13.200%{opacity:1}96.000%{opacity:0}}.c8{animation:c8 10.0s step-end infinite}@keyframes c9{0%{opacity:0}14.100%{opacity:1}96.000%{opacity:0}}.c9{animation:c9 10.0s step-end infinite}@keyframes c10{0%{opacity:0}15.000%{opacity:1}96.000%{opacity:0}}.c10{animation:c10 10.0s step-end infinite}@keyframes c11{0%{opacity:0}15.900%{opacity:1}96.000%{opacity:0}}.c11{animation:c11 10.0s step-end infinite}@keyframes c12{0%{opacity:0}16.800%{opacity:1}96.000%{opacity:0}}.c12{animation:c12 10.0s step-end infinite}@keyframes c13{0%{opacity:0}17.700%{opacity:1}96.000%{opacity:0}}.c13{animation:c13 10.0s step-end infinite}@keyframes c14{0%{opacity:0}18.600%{opacity:1}96.000%{opacity:0}}.c14{animation:c14 10.0s step-end infinite}@keyframes c15{0%{opacity:0}19.500%{opacity:1}96.000%{opacity:0}}.c15{animation:c15 10.0s step-end infinite}@keyframes out{0%{opacity:0}23.000%{opacity:1}96.000%{opacity:0}}.out{animation:out 10.0s step-end infinite}@keyframes p2{0%{opacity:0}25.000%{opacity:1}96.000%{opacity:0}}.p2{animation:p2 10.0s step-end infinite}@keyframes cur1{0%{opacity:1;transform:translate(0px,0px)}6.000%{opacity:1;transform:translate(12px,0px)}6.900%{opacity:1;transform:translate(24px,0px)}7.800%{opacity:1;transform:translate(36px,0px)}8.700%{opacity:1;transform:translate(48px,0px)}9.600%{opacity:1;transform:translate(60px,0px)}10.500%{opacity:1;transform:translate(72px,0px)}11.400%{opacity:1;transform:translate(84px,0px)}12.300%{opacity:1;transform:translate(96px,0px)}13.200%{opacity:1;transform:translate(108px,0px)}14.100%{opacity:1;transform:translate(120px,0px)}15.000%{opacity:1;transform:translate(132px,0px)}15.900%{opacity:1;transform:translate(144px,0px)}16.800%{opacity:1;transform:translate(156px,0px)}17.700%{opacity:1;transform:translate(168px,0px)}18.600%{opacity:1;transform:translate(180px,0px)}19.500%{opacity:1;transform:translate(192px,0px)}23.000%{opacity:0;transform:translate(0px,0px)}}.cur1{opacity:0;animation:cur1 10.0s step-end infinite}@keyframes cur2{0%{opacity:0}25.000%{opacity:1}96.000%{opacity:0}}.cur2{animation:cur2 10.0s step-end infinite}@keyframes blink{0%{opacity:1}50%{opacity:0}}.blink{animation:blink 1s step-end 2.5s infinite}@media (prefers-reduced-motion:reduce){[class]{animation:none!important}.cur1{opacity:0!important}}</style>
+<rect x="1" y="1" width="598" height="188" rx="10" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+<path d="M1 36V11A10 10 0 0 1 11 1H589A10 10 0 0 1 599 11V36Z" fill="#21262d"/>
+<line x1="1" y1="36" x2="599" y2="36" stroke="#3d444d" stroke-width="1"/>
+<circle cx="22" cy="18.5" r="6" fill="#ff5f57"/><circle cx="42" cy="18.5" r="6" fill="#febc2e"/><circle cx="62" cy="18.5" r="6" fill="#28c840"/>
+<text x="300" y="25" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#c9d1d9">My open source</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" xml:space="preserve">
+<text x="26" y="82" fill="#F87C0E" font-weight="700">$</text>
+<text class="c0" x="50" y="82" fill="#e6edf3">l</text>
+<text class="c1" x="62" y="82" fill="#e6edf3">s</text>
+<text class="c3" x="86" y="82" fill="#e6edf3">~</text>
+<text class="c4" x="98" y="82" fill="#e6edf3">/</text>
+<text class="c5" x="110" y="82" fill="#e6edf3">o</text>
+<text class="c6" x="122" y="82" fill="#e6edf3">p</text>
+<text class="c7" x="134" y="82" fill="#e6edf3">e</text>
+<text class="c8" x="146" y="82" fill="#e6edf3">n</text>
+<text class="c9" x="158" y="82" fill="#e6edf3">-</text>
+<text class="c10" x="170" y="82" fill="#e6edf3">s</text>
+<text class="c11" x="182" y="82" fill="#e6edf3">o</text>
+<text class="c12" x="194" y="82" fill="#e6edf3">u</text>
+<text class="c13" x="206" y="82" fill="#e6edf3">r</text>
+<text class="c14" x="218" y="82" fill="#e6edf3">c</text>
+<text class="c15" x="230" y="82" fill="#e6edf3">e</text>
+<g class="out" fill="#F87C0E" font-weight="700"><text x="26 38 50 62 74 86 98" y="118">dictly/</text><text x="158 170 182 194 206 218 230 242 254" y="118">paynesdd/</text></g>
+<text class="p2" x="26" y="154" fill="#F87C0E" font-weight="700">$</text>
+<rect class="cur1" x="50" y="66" width="11" height="22" fill="#e6edf3"/>
+<g class="blink"><rect class="cur2" x="50" y="138" width="11" height="22" fill="#e6edf3"/></g>
+</g>
+</svg>

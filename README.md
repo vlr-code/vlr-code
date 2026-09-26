@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/open-source.svg" alt="My open source: ls ~/open-source lists dictly/ and paynesdd/" width="600"/>
+</p>
+
 ### Dictly
 
 <p align="center">
